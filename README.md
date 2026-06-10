@@ -152,24 +152,7 @@ Streamlit Dashboard
 
 * Joblib
 
-## ⚙️ Installation
-
-## 1️⃣ Clone Repository
-
-git clone https://github.com/yourusername/FinGuard-AI.git
-cd FinGuard-AI
-
-
-## 2️⃣ Create Virtual Environment
-
-## Windows : 
-   python -m venv venv
-   venv\Scripts\activate
-
-## Linux / Mac  :  source venv/bin/activate
-
-
-## 3️⃣ Install Dependencies
+## Install Dependencies
 
 pip install streamlit
 pip install pandas numpy
